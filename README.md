@@ -152,7 +152,7 @@ Die Kommunikation mit Einsendern verbleibt grundsätzlich in unserem E-Mail-Post
 * Mailkommunikation & Name: Verbleiben im Postfach bzw. am Video, solange die Veröffentlichung aktiv ist oder rechtliche Ansprüche dies erfordern.
 
 ## 11. Verarbeitung von Daten durch YouTube
-Bei der Nutzung von YouTube erfasst Google technische Daten und Nutzungsdaten (z. B. IP-Adressen, Interaktionen). Für diese Verarbeitung ist grundsätzlich Google bzw. die jeweils zuständige Google-Gesellschaft verantwortlich. Details siehe Google Datenschutzerklärung: https://policies.google.com/privacy?hl=de&fg=1.
+Bei der Nutzung von YouTube erfasst Google technische Daten und Nutzungsdaten (z. B. IP-Adressen, Interaktionen). Für diese Verarbeitung ist grundsätzlich Google bzw. die jeweils zuständige Google-Gesellschaft verantwortlich. Details siehe Google <a href="https://policies.google.com/privacy">Datenschutzerklärung</a>.
 
 ## 12. Drittlandübermittlungen
 Bei der Nutzung internationaler Plattformen kann eine Datenverarbeitung außerhalb der EU/des EWR stattfinden. Dies erfolgt auf Basis von Angemessenheitsbeschlüssen oder Standardvertragsklauseln. Auf die konkreten Übermittlungen und Verarbeitungen durch externe Plattformbetreiber haben wir keinen Einfluss.
