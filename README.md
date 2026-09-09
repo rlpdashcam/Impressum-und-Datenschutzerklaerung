@@ -110,7 +110,7 @@ Die Verarbeitung erfolgt – abhängig vom jeweiligen Vorgang – auf Grundlage 
 * **5.1 Bearbeitung von Einsendungen und Kommunikation:** Soweit erforderlich für ein Vertrags- bzw. vorvertragliches Verhältnis mit dem Einsender (Art. 6 Abs. 1 lit. b DSGVO) oder auf Grundlage berechtigter Interessen (Art. 6 Abs. 1 lit. f DSGVO). 
 * **5.2 Veröffentlichung und Weiterverwertung:** Soweit erforderlich über eine Einwilligung oder auf Grundlage unserer berechtigten Interessen (Art. 6 Abs. 1 lit. f DSGVO). Unser Interesse liegt im Betrieb, der Weiterentwicklung und der redaktionellen Verbreitung unseres Medienangebots. Interessen betroffener Personen werden durch Anonymisierungsmaßnahmen gewahrt. 
 * **5.3 Erfüllung gesetzlicher Pflichten:** Soweit gesetzliche Aufbewahrungs- oder Verarbeitungspflichten bestehen (Art. 6 Abs. 1 lit. c DSGVO). 
-* **5.4 Einwilligungen:** Eine erteilte Einwilligung kann jederzeit mit Wirkung für die Zukunft widerrufen werden. 
+* **5.4 Einwilligungen:** Eine erteilte Einwilligung kann jederzeit mit Wirkung für die Zukunft widerrufen werden. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Verarbeitung bleibt vom Widerruf unberührt.
 
 ---
 
@@ -132,20 +132,32 @@ Daten werden nur an Empfänger weitergegeben, die diese für die genannten Zweck
 ---
 
 ## 8. Nutzung externer Übermittlungsdienste
-Für größere Dateien wählen Einsender selbstständig externe Dienste (z. B. SwissTransfer von Infomaniak, Speicherung in der Schweiz). Es gelten die Datenschutzbestimmungen des jeweiligen Anbieters, auf die wir keinen Einfluss haben. 
+Für die Übertragung von Dateien wählen Einsender selbstständig externe Dienste (z. B. SwissTransfer von Infomaniak, Speicherung in der Schweiz). Es gelten die Datenschutzbestimmungen des jeweiligen Anbieters, auf die wir keinen Einfluss haben. Der Einsender ist dafür verantwortlich, die Datenschutzbestimmungen und Nutzungsbedingungen des von ihm ausgewählten Dateiübertragungsdienstes zu beachten.
 
 ---
 
-## 9. Speicherdauer der Daten
-Die Korrespondenz (E-Mail-Adresse, Name, Inhalt, Anhänge) dient der Abstimmung und Bearbeitung von Einsendungen und wird dauerhaft im E-Mail-Postfach gespeichert. 
+## 9. Speicherdauer der Mailkommunikation
+Die Kommunikation mit Einsendern erfolgt regelmäßig per E-Mail.
+Dabei können insbesondere folgende Daten verarbeitet werden:
+*E-Mail-Adresse,
+*Name bzw. Nutzername,
+*Datum und Uhrzeit der Kommunikation,
+*Inhalt der Nachrichten,
+*Anhänge und Links,
+*sonstige vom Einsender übermittelte Informationen.
+Die E-Mail-Kommunikation dient insbesondere der Bearbeitung von Einsendungen, der Beantwortung von Fragen, der Durchführung von Rückfragen sowie der Abstimmung über die weitere Verwendung eingesandter Inhalte.
+Die Kommunikation mit Einsendern verbleibt grundsätzlich in unserem E-Mail-Postfach, solange dies rechtliche Ansprüche erfordern oder solange es für die Bearbeitung der Einsendung, die Dokumentation der Kommunikation oder die Geltendmachung, Ausübung oder Verteidigung rechtlicher Ansprüche erforderlich ist. Nicht mehr benötigte Daten werden umgehend gelöscht.
 
-* **Unbearbeitete Originaldateien:** Werden grundsätzlich nach Abschluss der Bearbeitung/Anonymisierung gelöscht, sofern keine Dokumentations- oder Verteidigungsgründe entgegenstehen. 
+## 10. Speicherdauer hinsichtlich Einsendungen
+* Unbearbeitete Originaldateien: Werden grundsätzlich umgehend nach Abschluss der Bearbeitung/Anonymisierung gelöscht, sofern keine Dokumentations- oder Verteidigungsgründe entgegenstehen.
+* Bearbeitete Dateien: Werden für die Dauer der Veröffentlichung bzw. Zweckmäßigkeit der Zweitverwertung gespeichert.
+* Mailkommunikation & Name: Verbleiben im Postfach bzw. am Video, solange die Veröffentlichung aktiv ist oder rechtliche Ansprüche dies erfordern.
 
 ## 11. Verarbeitung von Daten durch YouTube
-Bei der Nutzung von YouTube erfasst Google technische Daten und Nutzungsdaten (z. B. IP-Adressen, Interaktionen). Hierauf haben wir nur begrenzten Einfluss. Details siehe Google Datenschutzerklärung.
+Bei der Nutzung von YouTube erfasst Google technische Daten und Nutzungsdaten (z. B. IP-Adressen, Interaktionen). Für diese Verarbeitung ist grundsätzlich Google bzw. die jeweils zuständige Google-Gesellschaft verantwortlich. Details siehe Google Datenschutzerklärung: https://policies.google.com/privacy?hl=de&fg=1.
 
 ## 12. Drittlandübermittlungen
-Bei der Nutzung internationaler Plattformen kann eine Datenverarbeitung außerhalb der EU/des EWR stattfinden. Dies erfolgt auf Basis von Angemessenheitsbeschlüssen oder Standardvertragsklauseln.
+Bei der Nutzung internationaler Plattformen kann eine Datenverarbeitung außerhalb der EU/des EWR stattfinden. Dies erfolgt auf Basis von Angemessenheitsbeschlüssen oder Standardvertragsklauseln. Auf die konkreten Übermittlungen und Verarbeitungen durch externe Plattformbetreiber haben wir keinen Einfluss.
 
 ## 13. Betroffenenrechte
 Sie haben das Recht auf:
@@ -154,11 +166,11 @@ Sie haben das Recht auf:
 * Löschung (unter gesetzlichen Voraussetzungen)
 * Einschränkung der Verarbeitung
 * Datenübertragbarkeit
-* Widerspruch gegen Verarbeitungen auf Basis von Art. 6 Abs. 1 lit. f DSGVO aus besonderen persönlichen Gründen.
+* Widerspruch gegen Verarbeitungen auf Basis von Art. 6 Abs. 1 lit. f DSGVO aus besonderen persönlichen Gründen. Die Verarbeitung der Daten wird dann grundsätzlich nicht fortgesetzt, es sei denn, wir können zwingende schutzwürdige Gründe für die Verarbeitung nachweisen oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.
 * Widerruf erteilter Einwilligungen für die Zukunft.
 
 ## 14. Recht auf Beschwerde bei einer Datenschutzaufsichtsbehörde
-Bei Verstößen können Sie Beschwerde bei der zuständigen Aufsichtsbehörde einreichen:
+Unabhängig von anderen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfen haben Sie das Recht, sich bei einer Datenschutzaufsichtsbehörde zu beschweren, wenn Sie der Ansicht sind, dass die Verarbeitung Ihrer personenbezogenen Daten gegen die DSGVO verstößt.
 
 **Der Landesbeauftragte für den Datenschutz und die Informationsfreiheit Rheinland-Pfalz**  
 Postfach 30 40  
@@ -177,4 +189,4 @@ Wir behalten uns Anpassungen bei rechtlichen oder technischen Änderungen vor. E
 ---
 
 ### Hosting über GitHub Pages
-Diese Datenschutzerklärung sowie das Impressum werden über GitHub Pages bereitgestellt (GitHub, Inc.). GitHub protokolliert beim Aufruf der Seite automatisch die IP-Adresse des Besuchers zu Sicherheitszwecken – auch ohne GitHub-Konto. Es gelten die Datenschutzbestimmungen von GitHub: GitHub General Privacy Statement.
+Diese Datenschutzerklärung sowie das Impressum werden über GitHub Pages bereitgestellt (GitHub, Inc.). GitHub protokolliert beim Aufruf der Seite automatisch die IP-Adresse des Besuchers zu Sicherheitszwecken – auch ohne GitHub-Konto. Es gelten die Datenschutzbestimmungen von GitHub: [GitHub General Privacy Statement](https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement).
