@@ -1,9 +1,9 @@
+* **YouTube-Kanal:** RLP Dashcam  
+* **Kanal-URL:** [[https://www.youtube.com/@rlp_dashcam]](https://www.youtube.com/@rlp_dashcam)
+
 # Impressum
 
 Angaben gemäß § 5 DDG
-
-* **YouTube-Kanal:** RLP Dashcam  
-* **Kanal-URL:** [[https://www.youtube.com/@rlp_dashcam]](https://www.youtube.com/@rlp_dashcam)
 
 Dominique Kaschinski  
 c/o Ben Medien  
@@ -45,8 +45,6 @@ Brunnenstraße 4
 
 * **E-Mail:** info (at) rlpdashcam.com  
 * **Tel.:** 061171188902  
-* **Unser YouTube-Kanal:** RLP Dashcam  
-* **Kanal-URL:** [[https://www.youtube.com/@rlp_dashcam]](https://www.youtube.com/@rlp_dashcam)
 
 Diese Datenschutzerklärung informiert darüber, wie wir personenbezogene Daten im Zusammenhang mit unserem YouTube-Kanal verarbeiten. 
 
