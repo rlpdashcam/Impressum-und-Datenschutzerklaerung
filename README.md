@@ -3,7 +3,7 @@
 Angaben gemäß § 5 DDG
 
 * **YouTube-Kanal:** RLP Dashcam  
-* **Kanal-URL:** [[https://youtube.com](https://youtube.com](https://www.youtube.com/@rlp_dashcam))
+* **Kanal-URL:** [https://www.youtube.com/@rlp_dashcam]
 
 Dominique Kaschinski  
 c/o Ben Medien  
