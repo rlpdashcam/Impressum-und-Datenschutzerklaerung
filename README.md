@@ -74,7 +74,7 @@ Je nach Art der Kontaktaufnahme und des eingesandten Materials können insbesond
 * Gegebenenfalls weitere freiwillig mitgeteilte Kontaktdaten 
 * Inhalt der Kommunikation mit uns 
 * Informationen über die Einsendung 
-* Übermittelte Video-, Bild- und Audiodateien 
+* Übermittelte Dateien (insbesondere Video-, Bild- und Audiodateien)
 * Gegebenenfalls technische Informationen, die bei der Übermittlung entstehen 
 
 Der Name bzw. Nutzername, unter dem ein Einsender die Veröffentlichung wünscht, kann zusammen mit dem jeweiligen Video veröffentlicht werden. 
